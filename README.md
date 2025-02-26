@@ -12,7 +12,11 @@ The Sheridan Courses App helps students browse courses, enroll, and participate 
 ✅ Live Notifications & Reminders – Never miss deadlines.
 
 3️⃣ Links
-📌 Figma Prototype: https://www.figma.com/design/6pNE8KQoa2hYqCIE5Bcqgs/Untitled?node-id=0-1&t=ooRtFZNcAaISaYw4-1
+📌 Figma Prototype:
+https://www.figma.com/design/HHHeQwa1dmaAFV0iyZ9q6s/Untitled?node-id=0-
+1&t=s3ucEctiDTtsbdZa-1
+Youtube Links:
+https://youtu.be/9WuK_ErDS-Q
 📌 Screenshots: See attached images.
 4️⃣ New Features Based on Needfinding & Competitive Analysis
 Here are 5 new unique features that competitors lack:
